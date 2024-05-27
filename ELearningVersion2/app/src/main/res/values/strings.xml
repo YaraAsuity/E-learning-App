@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">E Learning</string>
+    // Start Login strings
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_now">New user ? Register Now</string>
+    <string name="createAccount">Create Account !</string>
+    <string name="firstStep">Here’s your first step</string>
+    <string name="withUs">with us !</string>
+    <string name="grades">Grades</string>
+    <string name="material">Material</string>
+    <string name="chat">Chats</string>
+    <string name="quiz">Solve Quiz</string>
+    <string name="attend">Attendance</string>
+    <string name="noUserTypeSelected">No user type selected , please select one</string>
+    <string name="Required">Required</string>
+    <string name="passwordLessThanSix">Password cannot be less than 6 characters</string>
+    <string name="passwordWithNoNum">Password must have at least one number</string>
+    <string name="passwordWithNoSpecialChar">Password must have at least one special character</string>
+    <string name="nameWithNumber">Name cannot have any number</string>
+    <string name="nameWithSpecialChar">Name cannot have any special character</string>
+    <string name="enter_course_id">Enter Course Id</string>
+    <string name="attendance_grade">Attendance Grade :</string>
+</resources>
